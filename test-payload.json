@@ -1,0 +1,9 @@
+{
+  "userId": "user123",
+  "type": "SMS",
+  "title": "Test Notification",
+  "content": "This is a test notification",
+  "metadata": {
+    "phoneNumber": "+918249994855"
+  }
+}
